@@ -17,7 +17,8 @@ Después se tendrá que crear el lienzo (canva) el cuál será un espacio blanco
 al hacer click (o tocar en dispositivos móviles) mediante el proceso de identificar la posición del puntero en
 el mometo en el que se interactuó e ir creando una línea hasta que se suelte el click.
 
-#### Entradas:
+#### • Entradas:
+
 ► Pocición del mouse al hacer click
 ► Pocición del mouse al soltar click
 
