@@ -17,13 +17,22 @@ Después se tendrá que crear el lienzo (canva) el cuál será un espacio blanco
 al hacer click (o tocar en dispositivos móviles) mediante el proceso de identificar la posición del puntero en
 el mometo en el que se interactuó e ir creando una línea hasta que se suelte el click.
 
-#### • Entradas:
+#### ► Entradas:
 
-► Pocición del mouse al hacer click
+• Pocición del mouse al hacer click
 
-► Pocición del mouse al soltar click
+• Pocición del mouse al soltar click
 
-####
+#### ► Proceso:
+
+• Guarda la ubicación del mouse cuando se hace click
+• Traza una línea que una las ubicaciones donde pasó el mouse
+• Guarda la ubicación del mouse al soltar click
+• Deja de trazar la línea al soltar el click
+
+#### ► Salidas
+
+• Línea del rastro del mouse
 
 ### Usuario:
 El usuario al ejectutar el archivo .py verá un espacio en blanco. Al hacer click en cualquier parte del canva una línea negra se irá generando en los lugares por los que pase el mouse hasta que se suuelte el click.
