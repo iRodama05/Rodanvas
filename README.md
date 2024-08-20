@@ -20,6 +20,7 @@ el mometo en el que se interactuó e ir creando una línea hasta que se suelte e
 #### • Entradas:
 
 ► Pocición del mouse al hacer click
+
 ► Pocición del mouse al soltar click
 
 ####
