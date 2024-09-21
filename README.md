@@ -38,3 +38,8 @@ el mometo en el que se interactuó e ir creando una línea hasta que se suelte e
 
 ### Usuario:
 El usuario al ejectutar el archivo .py verá un espacio en blanco. Al hacer click en cualquier parte del canva una línea negra se irá generando en los lugares por los que pase el mouse hasta que se suuelte el click.
+
+## Información adicional
+El programa contará con diversas funciones agrupadas en botones tales como un borrador, el botón de limpiar canvas o en el futuro cambiar el color del pincel o un botón que muestre indicaciones de cómo usar el programa.
+
+Con respecto a las dos últimas futuras funciones, en la primera de ellas posiblemente se pueda hacer uso de listas para almacenar los colores utilizados recientemente para que sea más fácil acceder a los colores que habrías usado anteriormente. Ahora, con respecto al botón de ayuda, podemos usar un archivo .txt que muestre una serie de instrucciones básicas sobre cómo usar el programa, posiblemente explicando qué hace cada botón.
