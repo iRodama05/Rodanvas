@@ -1,3 +1,5 @@
+-# El archivo de Python se subirá como Release. El README será siemre este mismo archivo pero se irá actualizando.
+
 # Rodanvas
 
 ## Contexto
